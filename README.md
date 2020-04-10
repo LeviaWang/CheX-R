@@ -1,1 +1,1 @@
-# CheX-ResidualAttentionNetwork
+# CheX-R
